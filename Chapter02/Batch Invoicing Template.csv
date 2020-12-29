@@ -1,0 +1,15 @@
+*InvoiceNo,*Customer,*InvoiceDate,*DueDate,Terms,Location,Memo,Item(Product/Service),ItemDescription,ItemQuantity,ItemRate,*ItemAmount,Service Date
+1001,Chris Smith,15/10/2020,14/11/2020,Net 30,,My Memo,Trimming,,1,7,7,15/10/2020
+1001,,,,,,,Design,New Garden Design,12,71,852,
+1001,,,,,,,Trimming,,5,111,555,15/10/2020
+1001,,,,,,,Gardening,General maintenance,14,11,154,
+1002,Karuna Ramachandran,14/10/2020,14/10/2020,Due on receipt,,,Trimming,,16,41,656,14/10/2020
+1002,,,,,,,Soil,Supplies for flower beds,1,54,54,14/10/2020
+1003,Lynda Higgs,13/10/2020,12/12/2020,Net 60,,,Rocks,,4,47,188,
+1004,Karuna Ramachandran,15/10/2020,30/10/2020,Net 15,,,Soil,Supplies for hanging pots,1,29,29,15/10/2020
+1004,,,,,,,Rocks,,5,46,230,15/10/2020
+1004,,,,,,,Trimming,,15,48,720,
+,,,,,,,,,,,,
+All data in this file is for sample purposes only.,,,,,,,,,,,,
+* Required column,,,,,,,,,,,,
+"NOTE:  You must turn on ""Custom transaction numbers"" in Accounts and Settings or your invoice numbers will be replaced by standard QuickBooks invoice numbers.",,,,,,,,,,,,
