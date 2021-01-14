@@ -49,7 +49,7 @@ With the following software and hardware list you can run all code files present
 is the published author of the Amazon Bestseller Mastering QuickBooks 2020. She has a degree in accounting from the University of Texas, Arlington, and has been featured by Travel Wire News, CorpNet blog, Merchant Maverick, Xero, and American Express. Crystalynn has been a licensed CPA for 10 years and an Advanced Certified QuickBooks ProAdvisor for 13 years. She has managed accounting teams at Fortune 500 companies such as Texaco and Paramount Pictures. She ran her own bookkeeping practice for 3 years and worked for Intuit (QuickBooks) for 3 years as a senior learning specialist. Crystalynn is currently a content strategist for Technical Learning Resources, Inc and an adjunct instructor at UCLA Extension, where she teaches accounting, bookkeeping, and QuickBooks to hundreds of small business owners and accounting students each year. When she is not working, she enjoys traveling and trying new restaurants with her husband.
 
 
-## Other books by the authors
+## Other books by the author
 * [Mastering QuickBooks 2020](https://www.packtpub.com/product/mastering-quickbooks-2020/9781789955101?utm_source=github&utm_medium=repository&utm_campaign=9781789955101)
 
 
